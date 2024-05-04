@@ -1,0 +1,13 @@
+#hi{
+    height: 80px;
+    width: 100%;
+    font-size: 40px;
+    font-family: monospace,'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-color: grey;
+    text-align: center;
+}
+p{
+    font-size: 15px;
+}
